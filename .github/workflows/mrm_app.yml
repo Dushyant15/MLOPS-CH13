@@ -1,4 +1,4 @@
-# Your workflow name should come here..
+# Your workflow name should come here...
 name: Deploy to heroku.
 
 # Run workflow on every push to main branch.
